@@ -385,6 +385,7 @@ config MSM_XPU_ERR_NONFATAL
 	help
 	 Select if XPU violations have to be configured as non-fatal errors.
 
+endchoice
 endif
 
 config MSM_SCM_ERRATA
