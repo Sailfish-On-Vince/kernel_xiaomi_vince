@@ -935,6 +935,6 @@ CONFIG_SIGNALFD=y
 CONFIG_EPOLL=y
 CONFIG_INOTIFY_USER=y
 CONFIG_CUSE=y
-CONFIG_ANDROID_BINDER_DEVICES="binder,hwbinder,vndbinder,anbox-binder,binder1,anbox-hwbinder,anbox-vndbinder,puddlejumper,vndpuddlejumper,hwpuddlejumper"
+CONFIG_ANDROID_BINDER_DEVICES="binder,hwbinder,vndbinder,anbox-binder,anbox-hwbinder,anbox-vndbinder,puddlejumper,vndpuddlejumper,hwpuddlejumper"
 
 CONFIG_CGROUP_NET_CLASSID=y
